@@ -8,6 +8,7 @@ Rodar testes:
 npm test
 -------------------------------
 Exemplos postman:
+-------------------------------
 Para acessar a rota protegida,primeiro gerar o token:
 POST:
 http://localhost:3000/login
