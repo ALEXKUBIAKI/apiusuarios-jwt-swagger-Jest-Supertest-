@@ -1,3 +1,11 @@
+Acesso swagger
+http://localhost:3000/api-docs/
+-------------------------------
+Iniciar projeto:
+npm start
+-------------------------------
+Rodar testes:
+npm test
 -------------------------------
 Exemplos postman
 Para acessar a rota protegida,primeiro gerar o token:
